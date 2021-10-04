@@ -4,7 +4,6 @@ font awesome 쓰기위해서는 public/index.html에 밑에있는 CDN을 추가�
 
 ```
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" /> 
-
 ```
 ###v_2
 전체적으로 부모, 자식 component간의 통신을 이용하여 데이터의 변화를 바로바로 볼 수 있게끔 바꾸어 
