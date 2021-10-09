@@ -17,3 +17,5 @@ state : 여러 컴포넌트에 공유되는 data
 getters : 연산된 state 값을 접근하는 속성 computed
 mutations : state값을 변경하는 이벤트로직 methods
 actions : 비동기 로직을 선언하는 메서드 async methods
+
+![구조](https://user-images.githubusercontent.com/12428689/136665888-cae11b1d-9dd4-449c-8d26-25df7c300f5e.PNG)
