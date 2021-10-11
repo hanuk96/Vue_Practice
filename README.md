@@ -19,3 +19,7 @@ mutations : state값을 변경하는 이벤트로직 methods
 actions : 비동기 로직을 선언하는 메서드 async methods
 
 ![구조](https://user-images.githubusercontent.com/12428689/136665888-cae11b1d-9dd4-449c-8d26-25df7c300f5e.PNG)
+
+### TodoList 만들어보기 v_4 & 5
+store.js 파일을 export와 import를 이용하여 모듈화하였음
+이렇게 함으로써 더욱 추적하기 
