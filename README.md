@@ -22,4 +22,5 @@ actions : 비동기 로직을 선언하는 메서드 async methods
 
 ### TodoList 만들어보기 v_4 & 5
 store.js 파일을 export와 import를 이용하여 모듈화하였음
-이렇게 함으로써 더욱 추적하기 
+이렇게 함으로써 더욱 추적하기 쉬워졌다
+
